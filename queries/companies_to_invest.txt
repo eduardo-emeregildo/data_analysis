@@ -1,0 +1,47 @@
+
+10 companies to invest:
+
+1. GILD(Health care), very high revenue growth and eps growth is present
+
+2. REGN(Health Care), very high gross margin compared to other companies
+
+3.UAL(Industrials), extreme spike in net income growth in 2014 and 2015(over 500 percent in 2015).
+Also, the company has a constant increase in gross margin
+
+4.DAL(Industrials), 586% net income growth in 2015, steady growth in total revenue,grossmargin and eps
+
+5. FB(IT) 96% net income growth in 2015, other data was good but not outsanding. Picked this mostly to diversify the sector
+
+6.ADS(IT) Picked this one mostly to diversify sectors chosen. ADS does show consistent increases in 
+growth(revenue,net income) though it's only by a small amount
+
+7. TRIP(Consumer Discretionary) over 96% gross margin for all years. Analysis shows that the company doesn't fluctuate
+
+8. ROST(Consumer Discretionary) This would be a low risk low reward investment. growth margin stays the same while eps,
+income growth and revenue growth rise slowly
+
+9. WFM(Consumer Staples) Only picked this company to vary the sectors to invest in. The only notable thing about this company is that it doesnt fluctuate in growth margin
+
+10 TSO(Energy) While the revenue growth was negative for 2015, net income growth showed a 104% increase in 2014 and a 82% increase.
+
+
+
+1. ( 71.64 / 71.61) - 1 = .041% return
+
+2.(375.96/ 373.72) - 1 = .6% return
+
+3. (67.54/ 73.28) - 1 = -7.8% return
+
+4. (56.35 / 49.31) -1 = 14% return
+
+5. (176.46/116.35) - 1 = 51.6% return
+
+6. ( 200.6/ 182.96) - 1 = 9.6% return
+
+7. (34.46/46.95) - 1 = -26.6% return
+
+8.(80.61/66.37)- 1 = 21.4% return
+
+9. stock was bought by amazon (42/ 31.01) - 1 = 35.4% return
+
+10.got data from https://stockinvest.us/stock-price/TSO?page=9  (99.55/ 88.55) - 1 = 12.4% return
